@@ -15,7 +15,7 @@ role: Professor assistant
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Ibagué, Colombia
-  url: ""
+  url: "https://www.unibague.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
