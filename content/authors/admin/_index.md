@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Diego S. D'antonio
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universidad de Ibagué, Colombia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Power electronics
+- Microgrids
+- Hierarchical control
+- Multilevel inverters
+- Robotics systems
+- Quadcopters
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Master of control engineering
+    institution: Universidad de Ibagué
+    year: 2019
+  - course: Electronic engineer
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,9 +44,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
 - icon: twitter
-  icon_pack: fab
+  icon_pack: researchgate
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
