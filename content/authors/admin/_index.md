@@ -45,8 +45,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
-- icon: twitter
-  icon_pack: researchgate
+- icon: researchgate
+  icon_pack: ai
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
@@ -54,6 +54,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+- icon: ieee
+  icon_pack: ai  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
