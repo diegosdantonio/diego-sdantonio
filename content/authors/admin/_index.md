@@ -47,15 +47,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
 - icon: researchgate
   icon_pack: ai
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.researchgate.net/profile/Diego_Salazar-Dantonio
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?hl=es&user=cYEQ0RgAAAAJ
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0003-1856-1749
+- icon: overleaf
+  icon_pack: ai
 - icon: ieee
-  icon_pack: ai  
+  icon_pack: ai
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -72,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Diego Salazar-D'antonio received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He worked in "Ideas Disruptivas" in Mexico, where as a project manager he helped develop the first Mexican 3D printer, focused on the design of educational applications. He is now president of IEEE student chapter at the university of Ibague. His current research topics include power electronic, robustness and hierarchical control applied to renewable energy systems, where he has written several papers. He is fond of robotics.
