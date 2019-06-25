@@ -29,9 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "file-code"
   icon_pack = "far"
-  name = """
-  Programmin in
-  """
-  #description = "Phyton, Matlab, C, C++, Assembler"
+  name = "Programmin in"
+  description = "Phyton, Matlab, C, C++, Assembler"
 
 +++
