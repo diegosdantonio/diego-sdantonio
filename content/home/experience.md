@@ -57,7 +57,7 @@ Development of innovation projects based on technology and 3D printing, support 
   date_start = "2018-01-20"
   date_end = "2018-11-20"
   description = """
-Assistant teacher of the subjects, precalculus, mechanical physics and differential calculus, linear algebra, control systems, power electronics.
+Assistant professor of the subjects, precalculus, mechanical physics and differential calculus, linear algebra, control systems, power electronics.
   """
 
 [[experience]]
