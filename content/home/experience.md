@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = """Teach digital electronic engineering."""
   
   [[experience]]
-  title = "Research assistant student"
+  title = "Research assistant master student"
   company = "Universidad de Ibagué"
   company_url = ""
   location = "Ibagué - Tolima, Colombia"
@@ -51,8 +51,8 @@ Development of innovation projects based on technology and 3D printing, support 
   
   [[experience]]
   title = "Assistant professor"
-  company = "Ideas Disruptivas"
-  company_url = "https://ideasdisruptivas.com/"
+  company = "Universidad de Ibagué"
+  company_url = ""
   location = "Ciudad de México, México"
   date_start = "2018-01-20"
   date_end = "2018-11-20"
