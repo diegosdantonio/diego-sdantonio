@@ -5,7 +5,7 @@ authors:
 - Julian Corredor
 - admin
 date: "2018-07-01T00:00:00Z"
-doi: "978-3-030-00350-0_42"
+doi: "10.1007/978-3-030-00350-0_42"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-01T00:00:00Z"
