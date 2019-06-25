@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Matworks"
+  organization_url = "https://la.mathworks.com"
+  title = "Finalist MathWorks Minidrone Competition"
+  url = "https://la.mathworks.com/videos/mathworks-minidrone-competition-model-description-1551445160030.html"
+  certificate_url = ""
+  date_start = "2018-08-25"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "The MathWorks Minidrone Competitions was introduce participants in to Model-Based Design using Simulink. The participants was design a line follower algorithm for a minidrone. The competition consisted of two rounds. Teams that qualify from Round 1 was be invited to the Round 2 event hosted by MathWorks."
   
 [[item]]
   organization = "DataCamp"
