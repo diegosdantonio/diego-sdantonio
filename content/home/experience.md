@@ -20,13 +20,23 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Professor assistant"
+  title = "Professor"
+  company = "Universidad de Ibagué"
+  company_url = ""
+  location = "Ibagué - Tolima, Colombia"
+  date_start = "2019-02-01"
+  date_end = ""
+  description = """Teach digital electronic engineering."""
+  
+  [[experience]]
+  title = "Research assistant student"
   company = "Universidad de Ibagué"
   company_url = ""
   location = "Ibagué - Tolima, Colombia"
   date_start = "2017-07-01"
   date_end = ""
-  description = """Teach digital electronic engineering and research power systems."""
+  description = """support research in the project 'Planta piloto de microred híbrida MIREDHI-LAB: Una alternatíva de gestión inteligente de energía para aplicaciones rurales.'"""
+
 
 [[experience]]
   title = "Engineering and innovation department manager"
@@ -40,14 +50,23 @@ Development of innovation projects based on technology and 3D printing, support 
   """
   
   [[experience]]
-  title = "Assistant teacher"
+  title = "Assistant professor"
   company = "Ideas Disruptivas"
   company_url = "https://ideasdisruptivas.com/"
   location = "Ciudad de México, México"
-  date_start = "2018-02-01"
-  date_end = "2018-06-01"
+  date_start = "2018-01-20"
+  date_end = "2018-11-20"
   description = """
-Assistant teacher of the subjects, precalculus, mechanical physics and differential calculus.
+Assistant teacher of the subjects, precalculus, mechanical physics and differential calculus, linear algebra, control systems, power electronics.
   """
+
+[[experience]]
+  title = "Research assistant student"
+  company = "Universidad de Ibagué"
+  company_url = ""
+  location = "Ibagué - Tolima, Colombia"
+  date_start = "2016-05-01"
+  date_end = "2017-02-01"
+  description = """Develop an stability and autonomous navigation control system for a quadcopter, using raspberry Pi and shield Navio2."""
 
 +++
