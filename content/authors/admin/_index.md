@@ -34,7 +34,7 @@ education:
     institution: Universidad de Ibagué
     year: 2019
   - course: Electronic engineer
-    institution: Massachusetts Institute of Technology
+    institution: Universidad de Ibagué
     year: 2017
 
 # Social/Academic Networking
@@ -66,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "fernando.salazar@unibague.edu.co"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
