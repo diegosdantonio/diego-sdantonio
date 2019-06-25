@@ -31,10 +31,7 @@ subtitle = ""
   icon_pack = "far"
   name = """
   Programmin in
-  * Analysing
-  * Modelling
-  * Deploying
   """
-  #description = "10%"
+  #description = "Phyton, Matlab, C, C++, Assembler"
 
 +++
