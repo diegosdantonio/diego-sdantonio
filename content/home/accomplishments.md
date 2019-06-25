@@ -18,15 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Universidad de Ibagué"
-  organization_url = ""
-  title = "Optimization seminar"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1WYqmIbaE8WK9jHRZKKJbEOMMho0QTW_Z/view?usp=sharing"
-  date_start = "2019-01-25"
-  date_end = ""
-  description = ""
+
 
 [[item]]
   organization = "Matworks"
@@ -39,18 +31,30 @@ date_format = "Jan 2006"
   description = """
   
   The MathWorks Minidrone Competitions was introduce participants in to Model-Based Design using Simulink. The participants was design a line follower algorithm for a minidrone. The competition consisted of two rounds. Teams that qualify from Round 1 was be invited to the Round 2 event hosted by MathWorks.
-* Round 1 Simulation Round: Design algorithms virtually using Simulink
-* Round 2 Simulation and Hardware Deployment Round: Deploy the algorithm on a Parrot minidrone when shortlisted
+  
+- Round 1 Simulation Round: Design algorithms virtually using Simulink.
+- Round 2 Simulation and Hardware Deployment Round: Deploy the algorithm on a Parrot minidrone when shortlisted.
   """
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Universidad de Ibagué"
+  organization_url = ""
+  title = "Optimization seminar"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://drive.google.com/file/d/1WYqmIbaE8WK9jHRZKKJbEOMMho0QTW_Z/view?usp=sharing"
+  date_start = "2019-01-23"
+  date_end = "2019-01-25"
+  description = ""
+  
+ 
+[[item]]
+  organization = "Universidad de Ibagué"
+  organization_url = "https://www.datacamp.com"
+  title = "predictive control and its application to thermal energy systems"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1dyoCM44oAyo9Eh5NYALtF2cqn6HvpWuq/view?usp=sharing"
+  date_start = "2017-02-10"
+  date_end = "2017-02-28"
   description = ""
 
 +++
