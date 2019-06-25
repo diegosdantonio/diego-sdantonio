@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  #description = "90%"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Result oriented"
+  #description = "90%"
+  
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "fas"
+  name = "LaTeX"
   #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "file-code"
+  icon_pack = "far"
+  name = "Programmin in"
   #description = "10%"
 
 +++
