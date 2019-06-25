@@ -29,18 +29,25 @@ date_format = "Jan 2006"
   description = """Teach digital electronic engineering and research power systems."""
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Engineering and innovation department manager"
+  company = "Ideas Disruptivas"
+  company_url = "https://ideasdisruptivas.com/"
+  location = "Ciudad de México, México"
+  date_start = "2012-07-20"
+  date_end = "2015-01-10"
   description = """
-  Responsibilities include:
+Development of innovation projects based on technology and 3D printing, support in the creation of the first Mexican 3D printer. The Pretty Hand project leader, a low cost prosthesis.
+  """
   
-  * Analysing
-  * Modelling
-  * Deploying
+  [[experience]]
+  title = "Assistant teacher"
+  company = "Ideas Disruptivas"
+  company_url = "https://ideasdisruptivas.com/"
+  location = "Ciudad de México, México"
+  date_start = "2018-02-01"
+  date_end = "2018-06-01"
+  description = """
+Assistant teacher of the subjects, precalculus, mechanical physics and differential calculus.
   """
 
 +++
