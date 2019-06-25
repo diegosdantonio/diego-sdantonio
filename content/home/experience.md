@@ -53,7 +53,7 @@ Development of innovation projects based on technology and 3D printing, support 
   title = "Assistant professor"
   company = "Universidad de Ibagué"
   company_url = ""
-  location = "Ciudad de México, México"
+  location = "Ibagué - Tolima, Colombia"
   date_start = "2018-01-20"
   date_end = "2018-11-20"
   description = """
