@@ -33,14 +33,14 @@ date_format = "Jan 2006"
   organization_url = "https://la.mathworks.com"
   title = "Finalist MathWorks Minidrone Competition"
   url = "https://la.mathworks.com/videos/mathworks-minidrone-competition-model-description-1551445160030.html"
-  certificate_url = ""
+  certificate_url = "https://drive.google.com/file/d/12HYjntd7hz7pW0emO3ciFqtB0WzPO2m-/view?usp=sharing"
   date_start = "2018-08-25"
   date_end = ""
   description = """
   
   The MathWorks Minidrone Competitions was introduce participants in to Model-Based Design using Simulink. The participants was design a line follower algorithm for a minidrone. The competition consisted of two rounds. Teams that qualify from Round 1 was be invited to the Round 2 event hosted by MathWorks.
-- Round 1 Simulation Round: Design algorithms virtually using Simulink
-- Round 2 Simulation and Hardware Deployment Round: Deploy the algorithm on a Parrot minidrone when shortlisted
+* Round 1 Simulation Round: Design algorithms virtually using Simulink
+* Round 2 Simulation and Hardware Deployment Round: Deploy the algorithm on a Parrot minidrone when shortlisted
   """
   
 [[item]]
