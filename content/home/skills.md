@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "overleaf"
-  icon_pack = "fas"
+  icon_pack = "ai"
   name = "LaTeX"
   #description = "100%"  
   
