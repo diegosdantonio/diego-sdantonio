@@ -3,7 +3,7 @@ title: "Computational Tool for Simulation and Automatic Testing of a Single-Phas
 authors:
 - admin
 date: "2018-07-01T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-030-00350-0_42"
+doi: "978-3-030-00350-0_42"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-01T00:00:00Z"
