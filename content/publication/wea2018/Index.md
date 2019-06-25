@@ -1,6 +1,8 @@
 ---
 title: "Computational Tool for Simulation and Automatic Testing of a Single-Phase Cascaded Multilevel Inverter"
 authors:
+- Oswaldo López-Santos
+- Julian Corredor
 - admin
 date: "2018-07-01T00:00:00Z"
 doi: "978-3-030-00350-0_42"
