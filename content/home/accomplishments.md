@@ -49,12 +49,22 @@ date_format = "Jan 2006"
  
 [[item]]
   organization = "Universidad de Ibagué"
-  organization_url = "https://www.datacamp.com"
+  organization_url = ""
   title = "predictive control and its application to thermal energy systems"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1dyoCM44oAyo9Eh5NYALtF2cqn6HvpWuq/view?usp=sharing"
   date_start = "2017-02-10"
   date_end = "2017-02-28"
+  description = ""
+  
+[[item]]
+  organization = "ITS, UMM, ITSM, UT"
+  organization_url = ""
+  title = "México conferences"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1QkKvxaQNYGaHMaWHVgDiI5dDJt6wUXc5/view?usp=sharing"
+  date_start = "2013-11"
+  date_end = "2014-11"
   description = ""
 
 +++
