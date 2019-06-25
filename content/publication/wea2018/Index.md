@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://link.springer.com/chapter/10.1007/978-3-030-00350-0_42"
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-00350-0_42
+url_pdf: https://drive.google.com/file/d/1L8L3vf2xHqFDRCMZ2VAUmkGXVdjTjiQR/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
