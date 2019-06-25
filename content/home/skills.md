@@ -29,7 +29,11 @@ subtitle = ""
 [[feature]]
   icon = "file-code"
   icon_pack = "far"
-  name = "Programmin in"
+  name = "Programmin in
+  * Analysing
+  * Modelling
+  * Deploying
+  "
   #description = "10%"
 
 +++
