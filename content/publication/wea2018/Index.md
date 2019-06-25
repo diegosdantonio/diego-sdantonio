@@ -21,7 +21,7 @@ publication_short: ""
 abstract: This work describes in detail a computational tool designed to study performance indicators of a four-stage transformer-based single-phase cascaded multilevel inverter. The proposed system integrates simulation, on-line measurement, control and signal processing providing automating testing functionality to optimize the performance of the inverter with base on indicators such as Total Harmonic Distortion (THD), partial and global efficiency and power balance between the stages. The computational component of the tool was developed in LabVIEW providing not only didactic interactivity with the user through the Human-Machine Interface (HMI) but also a reliable interconnection with the power converter and the instruments of the experimental setup. The hardware component was developed integrating the power converter prototype, an acquisition card and electronic circuits providing measurement, conditioning, digital control and gate driving functions. Experimental results obtained from automatic tests are presented showing potentiality of the tool to support research activities related with this type of power converters.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This work describes in detail a computational tool designed to study performance indicators of a four-stage transformer-based single-phase cascaded multilevel inverter. The proposed system integrates simulation, on-line measurement, control and signal processing providing automating testing functionality to optimize the performance of the inverter with base on indicators such as Total Harmonic Distortion (THD), partial and global efficiency and power balance between the stages. The computational component of the tool was developed in LabVIEW providing not only didactic interactivity with the user through the Human-Machine Interface (HMI) but also a reliable interconnection with the power converter and the instruments of the experimental setup. The hardware component was developed integrating the power converter prototype, an acquisition card and electronic circuits providing measurement, conditioning, digital control and gate driving functions. Experimental results obtained from automatic tests are presented showing potentiality of the tool to support research activities related with this type of power converters.
 
 tags:
 - Source Themes
@@ -29,8 +29,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+#   url: "https://link.springer.com/chapter/10.1007/978-3-030-00350-0_42"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
