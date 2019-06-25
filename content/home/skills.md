@@ -30,6 +30,6 @@ subtitle = ""
   icon = "file-code"
   icon_pack = "far"
   name = "Programmin in"
-  description = "Phyton, Matlab, C, C++, Assembler"
+  description = "Phyton, MATLAB, C, C++, Assembler"
 
 +++
