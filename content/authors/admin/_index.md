@@ -18,15 +18,17 @@ organizations:
   url: "https://www.unibague.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics systems, power electronics and advanced control strategies.
 
 interests:
-- Power electronics
+- Robotics systems
+- Quadcopters
+- Control systems
+- Advanced control strategies
 - Microgrids
 - Hierarchical control
 - Multilevel inverters
-- Robotics systems
-- Quadcopters
+
 
 education:
   courses:
@@ -61,9 +63,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: https://drive.google.com/file/d/1cLvQb9oe7LSownHyC2hA0GqO0C8ioIdD/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "fernando.salazar@unibague.edu.co"
