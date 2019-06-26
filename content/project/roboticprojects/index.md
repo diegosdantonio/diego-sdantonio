@@ -1,35 +1,41 @@
-+++
-# Date this page was created.
-date = "2014-12-01"
-
-# Project title.
-title = "Robotics + Control"
-
-# Project summary to display on homepage.
-summary = "Automatic Control on Mobile Robots"
-
-image:
-  caption: admin
-  focal_point: Smart
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Path Following", "Control", "Perception", "Instrumentation", "Predictive Control"]
+---
+title: Internal Project
+summary: An example of using the in-built project page.
+tags:
+tags = 
+- Path Following
+- Control
+- Perception
+- Instrumentation
+- Predictive Control]
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
-#
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
 
 
-# Does the project detail page use math formatting?
-math = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "rover.jpg"
-caption = ""
-
-+++
 
 ![image](http://i82.servimg.com/u/f82/14/32/70/24/genera17.jpg)
 
