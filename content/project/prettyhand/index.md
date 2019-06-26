@@ -1,6 +1,6 @@
 ---
 title: The Pretty Hand 
-summary: The social project on a low-cost hand prosthesis developed..
+summary: The social project on a low-cost hand prosthesis developed.
 tags: 
 - Mechanisms
 - Social project
@@ -30,4 +30,4 @@ url_video: ""
 ---
 
 
-#{{< gallery >}}
+# {{< gallery >}}
