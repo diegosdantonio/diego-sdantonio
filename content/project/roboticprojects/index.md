@@ -41,15 +41,17 @@ some robot sumo projects:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Q5GUPR0JJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Youtube
-- https://youtu.be/wWOvbd8DsVQ
+"""
+- https://youtu.be/wWOvbd8DsVQ;
 - https://youtu.be/IMWDzARXfe0
 - https://youtu.be/5Q5GUPR0JJQ
 - https://youtu.be/-DuvgBeuY8k
 - https://youtu.be/XQ5GWtzY_aM
 - https://youtu.be/0CC_76v8upM
+"""
 
 Instructables
-- https://www.instructables.com/id/Robot-Mini-Sumo/
+- https://www.instructables.com/id/Robot-Mini-Sumo/;
 - https://www.instructables.com/id/Mini-Sumo/
 
 GitHub
