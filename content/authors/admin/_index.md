@@ -25,9 +25,7 @@ Research interest:
 - Quadcopters
 - Control systems
 - Advanced control strategies
-- Microgrids
-- Hierarchical control
-- Multilevel inverters
+
 
 
 education:
