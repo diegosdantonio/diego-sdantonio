@@ -22,7 +22,7 @@ links:
 url_poster: https://drive.google.com/file/d/1KS3BKvVT1mJQPtMvDXZoR3rbjcyY1Vpm/view?usp=sharing
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://drive.google.com/file/d/1zfOqpe0js_f8y08NUCU69Z_1D-sbyRTI/view?usp=sharing
 url_video: ""
 
 # Slides (optional).
