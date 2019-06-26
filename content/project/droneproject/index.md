@@ -35,17 +35,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-
 ---
-
 
 Currently, the use of Drones, in precision agriculture, is of vital importance for the transport of agricultural materials, crop monitoring, cartographic mapping in relief, among others. Of the union between D + TEC group Unibague  and Fedearroz borned a project about to research in precision agriculture. The aim is detect causes stress in rice. This can be determined in using high resolution, multispectral and thermographic cameras.
 
-gallery_item:
-- album: gallery
-  image: boards.jpg
-  caption: A caption
-- album: gallery
-  image: https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png
-  caption: Another caption
+{{< gallery >}}
   
+Quadcopter, also known as quadrotor, is a helicopter with four rotors. The rotors are directed upwards and they are placed in a square formation with equal distance from the center of mass of the quadcopter. The quadcopter is controlled by adjusting the angular velocities of the rotors which are spun by electric motors. Quadcopter is a typical design for small unmanned aerial vehicles (UAV) because of the simple structure. 
+
+Quadcopter has received considerable attention from researchers as the complex phenomena of the quadcopter has generated several areas of interest. The basic dynamical model of the quadcopter is the starting point for all of the studies but more complex aerodynamic properties has been introduced as well, like the turbulence, fails, etc. Different control methods has been researched, including PID controllers, LQR, predictive.
+
+This work show, the control in pitch, roll and yaw of non comercial quadcopter, using a raspberry pi and a shield Navio2, the code was write in Python, C++ and Assembler. In fact The control methods will showed PID, LQR and one PID variant.
