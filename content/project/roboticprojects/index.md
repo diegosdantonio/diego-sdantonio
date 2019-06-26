@@ -9,7 +9,7 @@ title = "Robotics + Control"
 summary = "Automatic Control on Mobile Robots"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "robot.png"
+image_preview = "rrover.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
