@@ -19,6 +19,7 @@ image:
   focal_point: Top
 
 links:
+url_poster: https://drive.google.com/file/d/1KS3BKvVT1mJQPtMvDXZoR3rbjcyY1Vpm/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
