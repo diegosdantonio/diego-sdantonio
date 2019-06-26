@@ -77,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Diego Salazar-D'antonio received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering.
+Diego Salazar-D'antonio received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering. This MSc. program in control engineering has been created as a result of a fruitful academic cooperation between the university of ibaguè and the Catholic University of leuven KULeuven and the University of ghent UGent in Belgium.
 
-He worked in "Ideas Disruptivas" in Mexico, where as a project manager he helped develop the first Mexican 3D printer, focused on the design of educational applications. He is now president of IEEE student chapter at the university of Ibague. His current research topics include power electronic, robustness and hierarchical control applied to renewable energy systems, where he has written several papers. He is fond of robotics.
+He worked for a company called "Ideas Disruptivas" in Mexico, where as a project manager he helped develop the first Mexican 3D printer, focused on the design of educational applications. He is currently president of IEEE student chapter at the university of Ibague. His current research topics include power electronics, robustness and hierarchical control applied to renewable energy systems, where he has written several papers. He is fond of robotics.
