@@ -30,7 +30,7 @@ tags:
 - Automatic testing
 - LabVIEW
 - Computational tool
-featured: false
+featured: true
 
 # links:
 # - name: ""
