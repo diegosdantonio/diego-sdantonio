@@ -6,7 +6,10 @@ tags:
 - Control
 - Perception
 - Instrumentation
-- Predictive Control]
+- Predictive Control
+- Education
+- Robotics systems
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -17,10 +20,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -47,14 +46,14 @@ some robot sumo projects:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Q5GUPR0JJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Youtube
-"""
-- https://youtu.be/wWOvbd8DsVQ;
-- https://youtu.be/IMWDzARXfe0
-- https://youtu.be/5Q5GUPR0JJQ
-- https://youtu.be/-DuvgBeuY8k
-- https://youtu.be/XQ5GWtzY_aM
-- https://youtu.be/0CC_76v8upM
-"""
+
+* https://youtu.be/wWOvbd8DsVQ;
+* https://youtu.be/IMWDzARXfe0
+* https://youtu.be/5Q5GUPR0JJQ
+* https://youtu.be/-DuvgBeuY8k
+* https://youtu.be/XQ5GWtzY_aM
+* https://youtu.be/0CC_76v8upM
+
 
 Instructables
 - https://www.instructables.com/id/Robot-Mini-Sumo/;
