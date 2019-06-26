@@ -35,6 +35,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
+gallery_item:
+- album: gallery
+  image: boards.jpg
+  caption: A caption
+- album: gallery
+  image: https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png
+  caption: Another caption
 ---
 
 
