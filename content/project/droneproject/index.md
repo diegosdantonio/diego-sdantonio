@@ -1,6 +1,6 @@
 ---
-title: Quadricopter in precision agriculture
-summary: 
+title: Modelling, identification and control of a quadcopter 
+summary: In this section, you will find my research report to obtain the title of electronic engineer.
 tags: 
 - Path Following
 - Control systems
@@ -22,6 +22,8 @@ header:
   caption: ""
 
 links:
+- name: Research report
+  url: https://drive.google.com/file/d/1cLvQb9oe7LSownHyC2hA0GqO0C8ioIdD/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -36,8 +38,15 @@ url_video: ""
 ---
 
 
-
 Currently, the use of Drones, in precision agriculture, is of vital importance for the transport of agricultural materials, crop monitoring, cartographic mapping in relief, among others. Of the union between D + TEC group Unibague  and Fedearroz borned a project about to research in precision agriculture. The aim is detect causes stress in rice. This can be determined in using high resolution, multispectral and thermographic cameras.
 
-{{< gallery >}}
+gallery_item:
+- album: gallery
+  image: 1.jpg
+- album: gallery
+  image: 2.jpg
+- album: gallery
+  image: 3.jpg
+- album: gallery
+  image: 4.jpg
 
