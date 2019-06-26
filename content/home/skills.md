@@ -30,7 +30,7 @@ subtitle = ""
   icon = "file-code"
   icon_pack = "far"
   name = "Programmin in"
-  description = "Phyton, MATLAB, C, C++, Assembler"
+  description = "Phyton, ROS, MATLAB, C, C++, Assembler"
 
 [[feature]]
   icon = "cubes"
