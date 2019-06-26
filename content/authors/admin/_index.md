@@ -58,7 +58,7 @@ social:
   link: https://orcid.org/0000-0003-1856-1749
 - icon: overleaf
   icon_pack: ai
-  link https://www.overleaf.com
+  link: https://www.overleaf.com
 - icon: ieee
   icon_pack: ai
   link: https://www.ieee.org
