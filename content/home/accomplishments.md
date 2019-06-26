@@ -57,5 +57,14 @@ date_format = "Jan 2006"
   date_end = "2017-02-28"
   description = ""
   
+[[item]]
+  organization = "Univesities ITS - UMM - ITSM - UT"
+  organization_url = ""
+  title = "México conferences"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1QkKvxaQNYGaHMaWHVgDiI5dDJt6wUXc5/view?usp=sharing"
+  date_start = "2013-11"
+  date_end = "2014-11"
+  description = "Conferences about Technology and 3D printing in Tabasco, Mexico"  
 
 +++
