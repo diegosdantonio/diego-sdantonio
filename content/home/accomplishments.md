@@ -56,15 +56,17 @@ date_format = "Jan 2006"
   date_start = "2017-02-10"
   date_end = "2017-02-28"
   description = ""
-  
+
 [[item]]
-  organization = "Univesities ITS - UMM - ITSM - UT"
+  organization = "Universidad de Ibagué"
   organization_url = ""
-  title = "México conferences"
+  title = "predictive control and its application to thermal energy systems"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1QkKvxaQNYGaHMaWHVgDiI5dDJt6wUXc5/view?usp=sharing"
-  date_start = ""
-  date_end = ""
-  description = "Conferences about Technology and 3D printing in Tabasco Mexico"  
+  certificate_url = "https://drive.google.com/file/d/1dyoCM44oAyo9Eh5NYALtF2cqn6HvpWuq/view?usp=sharing"
+  date_start = "2017-02-10"
+  date_end = "2017-02-28"
+  description = ""
+  
+ 
 
 +++
