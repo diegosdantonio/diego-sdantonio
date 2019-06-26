@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Ibagué - Tolima, Colombia"
   date_start = "2019-02-01"
   date_end = ""
-  description = """Teach digital electronic engineering."""
+  description = """Teachig: digital electronics."""
   
   [[experience]]
   title = "Research assistant master student"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "Ibagué - Tolima, Colombia"
   date_start = "2017-07-01"
   date_end = ""
-  description = """support research in the project 'Planta piloto de microred híbrida MIREDHI-LAB: Una alternatíva de gestión inteligente de energía para aplicaciones rurales.'"""
+  description = """collaborating in the research project: 'Planta piloto de microred híbrida MIREDHI-LAB: Una alternatíva de gestión inteligente de energía para aplicaciones rurales.'"""
 
 
 [[experience]]
@@ -57,7 +57,7 @@ Development of innovation projects based on technology and 3D printing, support 
   date_start = "2018-01-20"
   date_end = "2018-11-20"
   description = """
-Assistant professor of the subjects, precalculus, mechanical physics and differential calculus, linear algebra, control systems, power electronics.
+Assistant professor teaching: precalculus, mechanical physics and differential calculus, linear algebra, control systems, power electronics.
   """
 
 [[experience]]
@@ -67,6 +67,6 @@ Assistant professor of the subjects, precalculus, mechanical physics and differe
   location = "Ibagué - Tolima, Colombia"
   date_start = "2016-05-01"
   date_end = "2017-02-01"
-  description = """Develop an stability and autonomous navigation control system for a quadcopter, using raspberry Pi and shield Navio2."""
+  description = """Thesis work: Develop an stability and autonomous navigation control system for a quadcopter, using raspberry Pi and shield Navio2."""
 
 +++
