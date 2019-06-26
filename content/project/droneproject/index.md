@@ -17,6 +17,10 @@ image:
   caption: 
   focal_point: Smart
 
+header:
+  image: "bannerthesis.jpg"
+  caption: ""
+
 links:
 url_code: ""
 url_pdf: ""
