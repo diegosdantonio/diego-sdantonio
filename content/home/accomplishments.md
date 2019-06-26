@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Universidad de Ibagué"
+  organization = "Univesities ITS - UMM - ITSM - UT"
   organization_url = ""
   title = "predictive control and its application to thermal energy systems"
   url = ""
