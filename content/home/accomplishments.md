@@ -30,10 +30,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  The MathWorks Minidrone Competitions was introduce participants in to Model-Based Design using Simulink. The participants was design a line follower algorithm for a minidrone. The competition consisted of two rounds. Teams that qualify from Round 1 was be invited to the Round 2 event hosted by MathWorks.
+  The MathWorks Minidrone Competitions pretended to introduce participants into Model-Based Design using Simulink. The participants had to design a line follower algorithm for a minidrone. The competition consisted of two rounds. Teams that passed from Round 1 were invited to participate in Round 2. This competition was hosted by MathWorks.
   
-- Round 1 Simulation Round: Design algorithms virtually using Simulink.
-- Round 2 Simulation and Hardware Deployment Round: Deploy the algorithm on a Parrot minidrone when shortlisted.
+- Round 1 Simulation: Design of virtual algorithms by using Simulink.
+- Round 2 Simulation and Hardware Deployment: Deployment of the algorithm designed in round 1, on a Parrot minidrone.
   """
   
 [[item]]
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Universidad de Ibagué"
   organization_url = ""
-  title = "predictive control and its application to thermal energy systems"
+  title = "Predictive control and its application to thermal energy systems"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1dyoCM44oAyo9Eh5NYALtF2cqn6HvpWuq/view?usp=sharing"
   date_start = "2017-02-10"
