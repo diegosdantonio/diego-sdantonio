@@ -34,13 +34,13 @@ subtitle = ""
 
 [[feature]]
   icon = "cubes"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Design 3D models"
   description = "Solidworks, Rino, Sketchup"
 
 [[feature]]
   icon = "bicycle"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Design 3D models"
   description = "This is my hobby - I usually drive to office on bicycle"
 
