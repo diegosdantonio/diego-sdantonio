@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1QkKvxaQNYGaHMaWHVgDiI5dDJt6wUXc5/view?usp=sharing"
   date_start = "2013-01-01"
   date_end = ""
-  description = ""
+  description = "Conferences about the new technology tendencies, 4th industrial revolution and 3D printing. Tabasco, México."
   
  
 
