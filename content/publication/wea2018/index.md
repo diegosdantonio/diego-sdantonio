@@ -40,7 +40,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://drive.google.com/file/d/1ClClFNgkJtGZZ-zfX2lkQbst4BSYMn-x/view?usp=sharing
 url_source: ''
 url_video: ''
 
