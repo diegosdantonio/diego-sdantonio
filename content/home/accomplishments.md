@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Univesities ITS - UMM - ITSM - UT"
   organization_url = ""
-  title = "predictive control and its application to thermal energy systems"
+  title = "México conferences"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1dyoCM44oAyo9Eh5NYALtF2cqn6HvpWuq/view?usp=sharing"
   date_start = "2017-02-10"
