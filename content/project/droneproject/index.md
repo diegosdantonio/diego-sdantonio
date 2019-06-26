@@ -47,5 +47,5 @@ Quadcopter has received considerable attention from researchers as the complex p
 
 This work show, the control in pitch, roll and yaw of non comercial quadcopter, using a raspberry pi and a shield Navio2, the code was write in Python, C++ and Assembler. In fact The control methods will showed PID, LQR and one PID variant.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UYP3Zr7sGKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLOokMXg9oefW431q2Zm5pXP6OSRPcbTYV&index=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
