@@ -33,7 +33,7 @@ The Pretty Hand is a project that began after meeting Samuel, a 4-year-old Colom
 
 {{< gallery >}}
 
-The results were amazing, the Samuel's smile pay everyone for the hard work.This video shows the steps that we have followed for the development of the project.
+The results were amazing, the Samuel's smile pay everyone for the hard work.This video shows the steps that we were followed for the development of the project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7boTIcrNbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
