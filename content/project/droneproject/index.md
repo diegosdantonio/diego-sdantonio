@@ -46,3 +46,5 @@ Quadcopter, also known as quadrotor, is a helicopter with four rotors. The rotor
 Quadcopter has received considerable attention from researchers as the complex phenomena of the quadcopter has generated several areas of interest. The basic dynamical model of the quadcopter is the starting point for all of the studies but more complex aerodynamic properties has been introduced as well, like the turbulence, fails, etc. Different control methods has been researched, including PID controllers, LQR, predictive.
 
 This work show, the control in pitch, roll and yaw of non comercial quadcopter, using a raspberry pi and a shield Navio2, the code was write in Python, C++ and Assembler. In fact The control methods will showed PID, LQR and one PID variant.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYP3Zr7sGKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
