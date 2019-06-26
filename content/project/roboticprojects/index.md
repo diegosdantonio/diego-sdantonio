@@ -8,8 +8,16 @@ title = "Robotics + Control"
 # Project summary to display on homepage.
 summary = "Automatic Control on Mobile Robots"
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "rrover.jpg"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  # Caption (optional)
+  caption: ""
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Center"
+  # Show image only in page previews?
+  preview_only: false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
