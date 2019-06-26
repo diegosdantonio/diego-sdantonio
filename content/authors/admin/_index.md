@@ -20,12 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics systems, power electronics and advanced control strategies.
 
-Research interest:
+interests:
 - Robotic systems
 - Quadcopters
 - Control systems
 - Advanced control strategies
-
+- Microgrids
+- Hierarchical control
+- Multilevel inverters
 
 
 education:
