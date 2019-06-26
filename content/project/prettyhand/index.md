@@ -30,4 +30,3 @@ url_video: ""
 ---
 
 
-# {{< gallery >}}
