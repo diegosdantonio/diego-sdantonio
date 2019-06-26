@@ -20,8 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics systems, power electronics and advanced control strategies.
 
-interests:
-- Robotics systems
+Research interest:
+- Robotic systems
 - Quadcopters
 - Control systems
 - Advanced control strategies
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Master of control engineering
+  - course: Master in control engineering
     institution: Universidad de Ibagué
     year: 2019
   - course: Electronic engineer
@@ -77,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Diego Salazar-D'antonio received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering. This MSc. program in control engineering has been created as a result of a fruitful academic cooperation between the university of ibaguè and the Catholic University of leuven KULeuven and the University of ghent UGent in Belgium.
+Diego Salazar-D'antonio received his BSc. degree in electronic engineering. He is candidate to earn his MSc. in control engineering at the university of Ibague, Colombia, where he is currently a professor in the faculty of engineering. This MSc. program in control engineering has been created as a result of a fruitful academic cooperation between the university of ibaguè, the Catholic University of Leuven **["KULeuven"](https://www.kuleuven.be/english//)** and the University of ghent UGent **["UGent"](https://www.ugent.be/)** in Belgium.
 
-He worked for a company called "Ideas Disruptivas" in Mexico, where as a project manager he helped develop the first Mexican 3D printer, focused on the design of educational applications. He is currently president of IEEE student chapter at the university of Ibague. His current research topics include power electronics, robustness and hierarchical control applied to renewable energy systems, where he has written several papers. He is fond of robotics.
+He worked for a company called **["Ideas Disruptivas"](https://ideasdisruptivas.com/)** in Mexico, where as a project manager he helped develop the first Mexican 3D printer, focused on the design of educational applications. He is currently president of IEEE student chapter at the university of Ibague. His current research topics include power electronics, robustness and hierarchical control applied to renewable energy systems, where he has written several papers. He is fond of robotics.
