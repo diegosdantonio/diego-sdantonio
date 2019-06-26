@@ -32,4 +32,16 @@ subtitle = ""
   name = "Programmin in"
   description = "Phyton, MATLAB, C, C++, Assembler"
 
+[[feature]]
+  icon = "cubes"
+  icon_pack = "far"
+  name = "Design 3D models"
+  description = "Solidworks, Rino, Sketchup"
+
+[[feature]]
+  icon = "bicycle"
+  icon_pack = "far"
+  name = "Design 3D models"
+  description = "This is my hobby - I usually drive to office on bicycle"
+
 +++
