@@ -15,7 +15,7 @@ external_link: ""
 
 image:
   caption: 
-  focal_point: Smart
+  focal_point: Top
 
 header:
   image: "bannerthesis.jpg"
