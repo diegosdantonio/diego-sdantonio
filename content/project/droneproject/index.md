@@ -40,6 +40,7 @@ url_video: ""
 
 Currently, the use of Drones, in precision agriculture, is of vital importance for the transport of agricultural materials, crop monitoring, cartographic mapping in relief, among others. Of the union between D + TEC group Unibague  and Fedearroz borned a project about to research in precision agriculture. The aim is detect causes stress in rice. This can be determined in using high resolution, multispectral and thermographic cameras.
 
+---
 gallery_item:
 - album: gallery
   image: 1.jpg
@@ -49,4 +50,4 @@ gallery_item:
   image: 3.jpg
 - album: gallery
   image: 4.jpg
-
+---
