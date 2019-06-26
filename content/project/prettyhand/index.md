@@ -29,4 +29,4 @@ url_video: ""
 # slides: example
 ---
 
-
+The Pretty Hand is a project that began after meeting Samuel, who, as he describes us, was born with a beautiful hand. From this, an alliance was created between Colombian Electronic Engineering based in Colombia and Ideas Disruptivas based in Mexico. The Pretty Hand project seeks to develop a low-cost prosthesis for Samuel.
