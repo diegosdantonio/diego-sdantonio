@@ -12,12 +12,12 @@ summary = "Automatic Control on Mobile Robots"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # Caption (optional)
-  caption: ""
+  caption: "f"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
   # Show image only in page previews?
-  preview_only: false
+  preview_only: true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
