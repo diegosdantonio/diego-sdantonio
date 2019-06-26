@@ -40,11 +40,11 @@ SIRUI is research hotbed from the Engineering Research Group **[D+TEC](https://i
 
 These low-cost developments involve prototyping tasks, handling of tools and equipment (3D print, laser cutter, PCB plotter, soldering), design and electronic implementation (Electronic simulation [Proteus], manufacture of PCBs), modeling and control (Dynamic simulation [MATLAB], Perception adaptations) and digital programing (Assembly, C, C++, Python, ROS, OpenCV).
 
-**[Some robot sumo projects:]
+**Some robot sumo projects:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Q5GUPR0JJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**[Youtube]
+**Youtube**
 
 * https://youtu.be/wWOvbd8DsVQ;
 * https://youtu.be/IMWDzARXfe0
@@ -54,12 +54,12 @@ These low-cost developments involve prototyping tasks, handling of tools and equ
 * https://youtu.be/0CC_76v8upM
 
 
-**[Instructables]
+**Instructables**
 
 * https://www.instructables.com/id/Robot-Mini-Sumo/;
 * https://www.instructables.com/id/Mini-Sumo/
 
-**[GitHub]
+**GitHub**
 
 * https://github.com/DualClown/RoboSumo
 
