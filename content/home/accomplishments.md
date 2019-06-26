@@ -62,9 +62,9 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "México conferences"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1dyoCM44oAyo9Eh5NYALtF2cqn6HvpWuq/view?usp=sharing"
-  date_start = "2017-02-10"
-  date_end = "2017-02-28"
+  certificate_url = "https://drive.google.com/file/d/1QkKvxaQNYGaHMaWHVgDiI5dDJt6wUXc5/view?usp=sharing"
+  date_start = ""
+  date_end = ""
   description = ""
   
  
