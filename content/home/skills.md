@@ -38,7 +38,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Result oriented"
-  description = "Proactivity
+  description = "Proactivity."
   
 [[feature]]
   icon = "edit"
@@ -56,18 +56,18 @@ subtitle = ""
   icon = "file-code"
   icon_pack = "far"
   name = "Programmin in"
-  description = "Phyton, ROS, MATLAB, C, C++, Assembler"
+  description = "Phyton, ROS, MATLAB, C, C++, Assembler."
 
 [[feature]]
   icon = "cubes"
   icon_pack = "fas"
   name = "Design 3D models"
-  description = "Solidworks, Rino, Sketchup"
+  description = "Solidworks, Rino, Sketchup."
 
 [[feature]]
   icon = "bicycle"
   icon_pack = "fas"
   name = "Mountain bike"
-  description = "This is my hobby - I usually drive to office on bicycle"
+  description = "This is my hobby - I usually drive to office on bicycle."
 
 +++
