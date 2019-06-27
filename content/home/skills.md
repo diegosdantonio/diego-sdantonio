@@ -30,8 +30,8 @@ subtitle = ""
 [[feature]]
   icon = "user-friends"
   icon_pack = "fas"
-  name = "Working"
-  description = "Teamwork, Contributing, Creativity, Leadership, Helpfulness."
+  name = "Teamwork"
+  description = "Contributing, Creativity, Leadership, Helpfulness."
     
   
   [[feature]]
