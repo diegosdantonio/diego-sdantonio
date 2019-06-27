@@ -14,11 +14,37 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+  
+  [[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
+  description = "Five years of teaching experience."
+  
+  [[feature]]
+  icon = "user-tie"
+  icon_pack = "fas"
+  name = "Working"
+  description = "Three years working as engineer in Mexico "
+
 [[feature]]
+  icon = "user-friends"
+  icon_pack = "fas"
+  name = "Working"
+  description = "Teamwork, Contributing, Creativity, Leadership, Helpfulness."
+    
+  
+  [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Result oriented"
-  #description = "90%"
+  description = "Proactivity
+  
+[[feature]]
+  icon = "edit"
+  icon_pack = "fas"
+  name = "Writing"
+  description = "Experience in writing scientific paper and research reports."
   
 [[feature]]
   icon = "overleaf"
