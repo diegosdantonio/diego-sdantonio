@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "Ibagué - Tolima, Colombia"
   date_start = "2017-07-01"
   date_end = ""
-  description = """collaborating in the research project: 'Planta piloto de microred híbrida MIREDHI-LAB: Una alternatíva de gestión inteligente de energía para aplicaciones rurales.'"""
+  description = """Collaborating in the research project: 'Planta piloto de microred híbrida MIREDHI-LAB: Una alternatíva de gestión inteligente de energía para aplicaciones rurales.'"""
 
 
 [[experience]]
