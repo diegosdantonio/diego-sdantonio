@@ -6,7 +6,7 @@ authors:
 - Manuel G. Forero
 - Oswaldo Lopéz-Santos
 date: "2019-07-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-030-31332-6_33"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-01T00:00:00Z"
@@ -15,7 +15,7 @@ publishDate: "2018-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Lecture Notes in Computer Science"
@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://drive.google.com/file/d/1fFwo4du8XE23La84hkPQgIfTSSKXJnKU/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1dI_VPMTT-8UR1_6PFKQqGLejVF_Dab2y/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: https://drive.google.com/file/d/1ErrgURXvtSAijlHOSRta2kaWQAsUOkD5/view?usp=sharing
