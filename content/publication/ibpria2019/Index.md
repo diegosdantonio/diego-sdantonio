@@ -6,7 +6,7 @@ authors:
 - Manuel G. Forero
 - Oswaldo Lopéz-Santos
 date: "2019-07-01T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-030-31332-6_33"
+doi: "10.1007/978-3-030-31332-6_33"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-01T00:00:00Z"
