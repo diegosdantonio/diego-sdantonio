@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   location = "Bethlehem, PA, US"
   date_start = "2019-02-01"
   date_end = ""
-  description = """Research assistant."""
+  description = """Research assistant: Study and analyze physical interaction between aerial
+robots."""
 
 
 [[experience]]
