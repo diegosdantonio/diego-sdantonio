@@ -20,12 +20,22 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Visiting scholar"
+  company = "Lehigh University"
+  company_url = ""
+  location = "Bethlehem, PA, US"
+  date_start = "2019-02-01"
+  date_end = ""
+  description = """Research assistant."""
+
+
+[[experience]]
   title = "Professor"
   company = "Universidad de Ibagué"
   company_url = ""
   location = "Ibagué - Tolima, Colombia"
   date_start = "2019-02-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """Teachig: digital electronics."""
   
   [[experience]]
