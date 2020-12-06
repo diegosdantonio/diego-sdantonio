@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:fernando.salazar@unibague.edu.co".
+  link: '#contact'  # For a direct email link, use "mailto:diego.s.dantonio@lehigh.edu".
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Diego_Salazar-Dantonio
@@ -70,7 +70,7 @@ social:
 #   link: https://drive.google.com/file/d/1cLvQb9oe7LSownHyC2hA0GqO0C8ioIdD/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fernando.salazar@unibague.edu.co"
+email: "diego.s.dantonio@lehigh.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
