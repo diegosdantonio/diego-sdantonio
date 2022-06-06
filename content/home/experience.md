@@ -31,7 +31,7 @@ robots."""
 
 
 [[experience]]
-  title = "Professor"
+  title = "Instructor"
   company = "Universidad de Ibagué"
   company_url = ""
   location = "Ibagué - Tolima, Colombia"
